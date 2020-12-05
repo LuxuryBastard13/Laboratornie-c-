@@ -1,0 +1,12 @@
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.Form1.resources
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.Form2.resources
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.Form3.resources
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.Properties.Resources.resources
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\LR10_2\LR10_2\bin\Debug\LR10_2.exe.config
+C:\Users\Данил\source\repos\LR10_2\LR10_2\bin\Debug\LR10_2.exe
+C:\Users\Данил\source\repos\LR10_2\LR10_2\bin\Debug\LR10_2.pdb
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.exe
+C:\Users\Данил\source\repos\LR10_2\LR10_2\obj\Debug\LR10_2.pdb
